@@ -8,8 +8,10 @@ https://github.com/SukkoPera/OpenAmiga500FastRamExpansion
 
 
 # Actual PCB
+![image](https://user-images.githubusercontent.com/81614352/189484203-2953fe37-57d6-4805-b7ca-66fbac54141c.png)
 
 
 # Installation example
 
+![image](https://user-images.githubusercontent.com/81614352/189484213-1181baa7-46ce-4cdd-92a7-aebfde1a643b.png)
 
